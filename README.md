@@ -14,4 +14,5 @@ Pokud soubor končí .png, tak jej přidá do seznamu s kompletní cestou. Násl
 3, přes cmd se přepnu příkazem: cd "cesta k souboru".
 
 4, skript sputím tím, že do příkazového řádku napíšu: python3 open.py
+
 ######################################################
