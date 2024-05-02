@@ -6,6 +6,7 @@ a os.getcwd zapíše cestu k souboru. další for loop se už konkrétně kouká
 Pokud soubor končí .png, tak jej přidá do seznamu s kompletní cestou. Následně se spustí GIMP, který se načítá s cestami uloženými v seznamu.
 
 ######################################################
+
 1, jako první si zkontrolujte, zda cesta ke gimpu/inkscapu odpovídá vaší cestě v PC ke gimpu/inkscapu.
 
 2, první si dám soubor do složky, kde mám snímky.
